@@ -12,7 +12,7 @@
 
 ![Falstad Simulation Gif](./path/to/demo.gif)
 
-[Link to Demo](Falstad Demo Link)
+[Link to Demo](https://is.gd/yXgSkD)
 
 ---
 ## Schematic
@@ -21,6 +21,6 @@
 
 ## PCB
 
-![PCB Image](./path/to/PCB.png)
+![PCB Image](attachments/Screenshot 2026-03-26 045545.png)
 
 ---
