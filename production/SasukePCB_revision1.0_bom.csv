@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D3",LED_D5.0mm,2,LED,
+J1,PinHeader_1x02_P2.54mm_Vertical,1,Conn_01x02,
+"Q1, Q3",TO-92L_Inline_Wide,2,NPN,
+"R10, R11, R12, R13, R14, R9",R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,6,1k,
+"SW2, SW3",SW_PUSH_6mm,2,SW_Push,
