@@ -5,6 +5,9 @@ This PCB is a Bistable Multivibrator in the shape of Sasuke from the anime Narut
 ![3D PCB Image](attachments/3D_PCB.png)
 
 ---
+## Lapse
+
+[Lapse Video](https://lapse.hackclub.com/timelapse/BlOlKrzwhdhR)
 
 ## Simulation
 
