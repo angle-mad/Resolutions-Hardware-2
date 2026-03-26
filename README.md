@@ -1,8 +1,8 @@
-# Project Title
+# Sasuke Bistable Multivibrator
 
 {What is this and why you made it}
 
-![3D PCB Image](./path/to/image.png)
+![3D PCB Image](attachments/3D_PCB.png)
 
 ---
 
@@ -10,17 +10,16 @@
 
 {Yap about how it works}
 
-![Falstad Simulation Gif](./path/to/demo.gif)
 
 [Link to Demo](https://is.gd/yXgSkD)
 
 ---
 ## Schematic
 
-![Schematic Image](./path/to/schematic.png)
+![Schematic Image](attachments/Schematic.png)
 
 ## PCB
 
-![PCB Image](attachments/Screenshot 2026-03-26 045545.png)
+![PCB Image](attachments/2D_PCB.png)
 
 ---
