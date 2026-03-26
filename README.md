@@ -1,6 +1,6 @@
 # Sasuke Bistable Multivibrator
 
-{What is this and why you made it}
+This PCB is a Bistable Multivibrator in the shape of Sasuke from the anime Naruto. The LEDs change sides once a push switch gets pressed. There are two push swithes and the LED changes to go to the side opposite to the pussh switch. The LEDs are supposed to represent Sasuke's sharingan eyes.
 
 ![3D PCB Image](attachments/3D_PCB.png)
 
@@ -8,7 +8,7 @@
 
 ## Simulation
 
-{Yap about how it works}
+The Bistable Multivibrator has two stable states. The circuit can stay in one of the two positions. This changes when a push switch is pressed. The push switch that is under the LED that is on will switch the state and cause the opposite LED to turn on.
 
 
 [Link to Demo](https://is.gd/yXgSkD)
